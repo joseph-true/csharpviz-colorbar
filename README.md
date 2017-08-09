@@ -10,3 +10,6 @@ Value order can be shown as-is or sorted min to max.
 
 ![ColorBar sort example](/images/sharpviz-colorbar-screenshot-2.png "Car prices sorted in ascending order")
 
+Here's an example of using the Iris data set where you can see the clustering of petal width values for the three different classes (Setosa, Versicolor and Virginica).  
+
+![ColorBar Iris data set example](/images/sharpviz-colorbar-screenshot-3.png "Iris petal width values and clustering")
