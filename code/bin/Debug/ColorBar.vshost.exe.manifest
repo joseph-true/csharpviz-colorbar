@@ -4,7 +4,7 @@
   <description asmv2:iconFile="App.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ColorBar" version="1.0.6426.43197" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ColorBar" version="1.0.6473.37705" language="neutral" processorArchitecture="msil" />
     <commandLine file="ColorBar.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -44,13 +44,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ColorBar.exe" size="28672">
-      <assemblyIdentity name="ColorBar" version="1.0.6426.43197" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ColorBar" version="1.0.6473.37705" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>RRCa75lo8iCDMnW8z2uvCXQCGU4=</dsig:DigestValue>
+        <dsig:DigestValue>aRwWqw36k7BbJWnTN7CC+knqU3o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,6 +61,78 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>GM7OUb4teOfGVJg9lxgqFUWHPYk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sampledata_car-mpg.csv" size="1869">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>agZba9OUIougJJw2ESaWStjaLT4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sampledata_car-prices.csv" size="350">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UjclvwJH8IrNRtQiOJ3Z3ylSIfc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sampledata_iris-petal-length.csv" size="724">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MGocCh2H4qe6RQyZ7l+7fzNRxt4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sampledata_iris-petal-width.csv" size="724">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>c0vkit6Asq+GQVtAHMv2Q1zAmQA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sampledata_random10000.csv" size="128858">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9LbeNJQOOJzHBDq8STaJSq77Tj0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sampledata_test-2vals.txt" size="8">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7VRe9oBcAQWR2rOAdLH59MlhSYk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sampledata_test-3vals.txt" size="10">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tHjg+wCivhfNQl6OJigQpgXrb7g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sampledata_test-decimals.txt" size="69">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sMdUK4wobXtlj9CB0d7U52L4HpQ=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

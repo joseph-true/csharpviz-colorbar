@@ -121,6 +121,15 @@
       <SubType>Form</SubType>
     </Compile>
     <Content Include="App.ico" />
+    <Content Include="sampledata_test-2vals.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sampledata_test-3vals.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sampledata_test-decimals.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <EmbeddedResource Include="frmColorBar.resx">
       <DependentUpon>frmColorBar.cs</DependentUpon>
     </EmbeddedResource>
@@ -128,6 +137,21 @@
   <ItemGroup>
     <None Include="ClassDiagram1.cd" />
     <None Include="ColorBar_TemporaryKey.pfx" />
+    <Content Include="sampledata_car-mpg.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sampledata_car-prices.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sampledata_iris-petal-length.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sampledata_iris-petal-width.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sampledata_random10000.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
