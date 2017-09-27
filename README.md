@@ -13,3 +13,7 @@ Value order can be shown as-is or sorted min to max.
 Here's an example of using the Iris data set where you can see the clustering of petal width values for the three different classes (Setosa, Versicolor and Virginica).  
 
 ![ColorBar Iris data set example](/images/sharpviz-colorbar-screenshot-3.png "Iris petal width values and clustering")
+
+## Running the Project
+This project was created in Microsoft Visual Studio 2010 C#.  
+To open and run the project locally, download the **code** folder and double-click the solution file "**ColorBar.sln**".
